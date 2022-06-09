@@ -1,5 +1,5 @@
 # MonkeMusic
-### What is MonkeMusic?
+## What is MonkeMusic?
 MonkeMusic is a mod that lets you listen to your own music, only works with .OGG and .WAV files.
 
 ## How do you use MonkeMusic?
@@ -16,9 +16,9 @@ You can also use Q and E to switch songs and R to pause/replay if you're on PC.
 Go to your Gorilla Tag folder, BepInEx\plugins\MonkeMusic\Music, and add any .OGG and/or .WAV files you want.
 
 ## What are some other information I should know?
-This mod is NOT affiliated with MonkeTunes, as both mods act completely different.                                
-The .OGG files the mod uses will cause very minor freezing if the audio is about 35 seconds long.                                    
-This mod is still being worked on to have more features to simplify how it works.                   
+ - This mod is NOT affiliated with MonkeTunes, as both mods act completely different. 
+ - The .OGG files the mod uses will cause very minor freezing if the audio is about 35 seconds long.
+ - This mod is still being worked on to have more features to simplify how it works.                   
 
 ## Where do you download it?
 Download it using the beta release on the right of this page.
