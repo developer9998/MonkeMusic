@@ -3,9 +3,9 @@
 MonkeMusic is a mod that lets you listen to your own music, only works with .OGG and .WAV files.
 
 ## How do you use MonkeMusic?
-On your left palm there will be some text displaying what you're listening to and how far you're in.
-Use your left controller's analog stick to switch songs, and use X (Oculus Touch) to pause/replay.
-You can also use Q and E to switch songs and R to pause/replay if you're on PC.
+On your left palm there will be some text displaying what you're listening to and how far you're in.                  
+Use your left controller's analog stick to switch songs, and use X (Oculus Touch) to pause/replay.                  
+You can also use Q and E to switch songs and R to pause/replay if you're on PC.                  
 
 ## What are some of the cooler features?
  - Text on your left palm stating the current song's name and duration. (Mentioned.)
