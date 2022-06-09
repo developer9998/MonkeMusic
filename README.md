@@ -8,9 +8,9 @@ Use your left controller's analog stick to switch songs, and use X (Oculus Touch
 You can also use Q and E to switch songs and R to pause/replay if you're on PC.
 
 ### What are some of the cooler features?
--Text on your left palm stating the current song's name and duration. (Mentioned.)
--Keybind support both in VR and PC. (Mentioned.)
--Use anywhere in Publics, Privates, Utilla Modded Lobbies, etc.
+ -Text on your left palm stating the current song's name and duration. (Mentioned.)
+ -Keybind support both in VR and PC. (Mentioned.)
+ -Use anywhere in Publics, Privates, Utilla Modded Lobbies, etc.
 
 ### How do you add custom songs?
 Go to your Gorilla Tag folder, BepInEx\plugins\MonkeMusic\Music, and add any .OGG and/or .WAV files you want.
