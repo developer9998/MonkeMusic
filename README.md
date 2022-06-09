@@ -19,3 +19,6 @@ Go to your Gorilla Tag folder, BepInEx\plugins\MonkeMusic\Music, and add any .OG
 This mod is NOT affiliated with MonkeTunes, as both mods act completely different.
 The .OGG files the mod uses will cause very minor freezing if the audio is about 35 seconds long.
 This mod is still being worked on to have more features to simplify how it works.
+
+### Where do you download it?
+Download it using the beta release on the right of this page.
