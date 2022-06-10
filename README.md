@@ -4,7 +4,7 @@ MonkeMusic is a mod that lets you listen to your own music, it works with .OGG a
 
 ## How do you use MonkeMusic?
 On your left palm there will be some text displaying what you're listening to and how far you're in.                  
-Use your left controller's analog stick to switch songs, and change the time of the song by 10.                   
+Use your left controller's analog stick to switch songs, and change the time of the song by 10. (Suggested by KT)                          
 Also with your left controller, press X to pause/replay your song.                       
 You can also use Q and E to switch songs and R to pause/replay if you're on PC.                  
 
