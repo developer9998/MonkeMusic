@@ -1,6 +1,6 @@
 # MonkeMusic
 ## What is MonkeMusic?
-MonkeMusic is a mod that lets you listen to your own music, only works with .OGG and .WAV files.
+MonkeMusic is a mod that lets you listen to your own music, it works with .OGG and .WAV files.
 
 ## How do you use MonkeMusic?
 On your left palm there will be some text displaying what you're listening to and how far you're in.                  
